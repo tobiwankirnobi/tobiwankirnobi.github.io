@@ -22,3 +22,9 @@
   .card {
     background: blue;
   }
+  .container{
+    width: 50%;
+  }
+  .flipped{
+    background: yellow;
+  }
